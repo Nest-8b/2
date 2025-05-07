@@ -19,12 +19,12 @@
 }
 
 #blog-container .blogs .post h3 {
-  color: #29303b;
+  color: lightpink;
   padding: 15px 0 10px 0;
 }
 
 #blog-container .blogs .post p {
-  color: #757373;
+  color: hotpink;
   padding-bottom: 20px;
 }
 
@@ -48,7 +48,7 @@
 
 #blog-container .cate a {
   text-decoration: none;
-  color: #757373;
+  color: hotpink;
   font-weight: 500;
   line-height: 45px;
 }
@@ -114,12 +114,12 @@
 }
 
 #about-container .about-text h2 {
-  color: #29303b;
+  color: lightpink;
   padding-bottom: 15px;
 }
 
 #about-container .about-text p {
-  color: #686f7a;
+  color: plum;
   font-weight: 300;
 }
 
@@ -143,7 +143,7 @@
 
 #about-container .about-text .about-fe .fe-text h5 {
   font-size: 16px;
-  color: #29303b;
+  color: lightpink;
 }
 
 #trust {
