@@ -53,6 +53,13 @@ nav .navigation
 	display: flex;
 }
 
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 30%;
+}
+
+
 #menu-btn
 {
 	width: 30px;
